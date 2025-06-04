@@ -1,0 +1,57 @@
+.routeSegment + .row
+{
+	border-top: 2.5px dashed black;
+	padding: 25px 0;
+}
+.routeSegment
+{
+	margin-bottom: 25px;
+	height: 600px;
+}
+.routeCat ul
+{
+	padding: 150px 0;
+}
+.hiddenField
+{
+	display: none;
+}
+.routeMap
+{
+	border: thin solid #333;
+	height: 600px;
+}
+#routeInfo
+{
+	background-color: #ECECFB;
+	border: thin solid #333;
+	display: none;
+	height: 600px;
+	padding: 1.5%;
+}
+#actionButtons
+{
+	position: relative;
+	top: 0px;
+}
+#actionButtons .btn
+{
+	border: none;
+	color: white;
+	cursor: pointer;
+	margin: 0.5%;
+}
+.footer
+{
+	background-color: #343a40;
+	border-top: 2px solid #ECECFB;
+	color: blanchedalmond;
+	font-size: large;
+	margin-top: 2%;
+	text-align: center;
+	width: 100%;
+}
+#endLogo
+{
+	font-size: x-large;
+}
